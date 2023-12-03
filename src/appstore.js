@@ -5,6 +5,7 @@ _ACC23.CacheName='v1::ddj',
 _ACC23.AppVer='23.11.27';
 _ACC23.AppName='ddj'
 _ACC23.AppTitle='平行經'
+_ACC23.repoLink="https://github.com/accelon/ddj/"
 _ACC23.allptks=['ddj','ddj-baihua','ddj-simbaihua','ddj-wiki',"ddj-legge","ddj-wangbi"];
 _ACC23.selectedptks=['ddj','ddj-simbaihua','ddj-wiki','ddj-legge',"ddj-wangbi"]
 _ACC23.activeptk='ddj'
