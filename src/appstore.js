@@ -12,6 +12,7 @@ _ACC23.activeptk='ddj'
 _ACC23.ptkinfo={
     'ddj':"文言",
     'ddj-baihua':"白話",
+    'ddj-simbaihua':"簡明白話",
     'ddj-wangbi':"王弼注",
     'ddj-wiki':"WikiSource",
     'ddj-legge':"James Legge",
